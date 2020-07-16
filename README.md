@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Here you can Add and Edit new expenses.
+A +ADD button is provided to add expenese
+you can edit the expense item by clicking on it
